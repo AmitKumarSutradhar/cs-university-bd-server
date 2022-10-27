@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "name": "Object Oriented Programming"
+    },
+    {
+        "id": "02",
+        "name": "Algorithm Design & Analysis"
+    },
+    {
+        "id": "03",
+        "name": "Operating Systems"
+    },
+    {
+        "id": "04",
+        "name": "Compiler Design"
+    },
+    {
+        "id": "05",
+        "name": "Computer Graphics & Multimedia"
+    },
+    {
+        "id": "06",
+        "name": "Artificial Intelligence & Neural Networks"
+    },
+    {
+        "id": "07",
+        "name": "All Courses"
+    }
+]
